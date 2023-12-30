@@ -1,0 +1,25 @@
+.site-title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+a {
+    color: wheat;
+}
+.front-page {
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.blurb {
+    font-family: sans-serif;
+    font-size: calc(1em + 1vw + 1vh);
+    line-height: 1.33333;
+    
+}
